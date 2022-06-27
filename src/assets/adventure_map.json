@@ -1,0 +1,15 @@
+{ "columns":60,
+ "image":"treasure map_indiziert.png",
+ "imageheight":1080,
+ "imagewidth":1920,
+ "margin":0,
+ "name":"map",
+ "spacing":0,
+ "tilecount":1980,
+ "tiledversion":"1.7.2",
+ "tileheight":32,
+ "tilewidth":32,
+ "transparentcolor":"#898989",
+ "type":"tileset",
+ "version":"1.6"
+}
