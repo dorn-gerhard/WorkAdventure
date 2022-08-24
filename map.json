@@ -87,6 +87,12 @@
          "id":6,
          "name":"start",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/pluto-bayes.tugraz.at\/finance_plan.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":131,
@@ -774,7 +780,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/pluto-bayes.tugraz.at\/interaktive_Finanzplanung.html"
+                         "value":"https:\/\/pluto-bayes.tugraz.at\/finance_plan.html"
                         }, 
                         {
                          "name":"openWebsiteAllowApi",
