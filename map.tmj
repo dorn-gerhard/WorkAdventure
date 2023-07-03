@@ -2268,7 +2268,7 @@
                  "y":0
                 }],
          "name":"Visible",
-         "opacity":0.6,
+         "opacity":1,
          "type":"group",
          "visible":true,
          "x":0,
